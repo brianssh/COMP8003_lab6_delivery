@@ -9,7 +9,7 @@ This repository is part of a structured educational laboratory exercise focused 
 This project is strictly limited to the **Delivery** phase. Please note the following safety and ethics constraints:
 
 * **No Execution:** This repository contains only static HTML and CSS. No code executes upon delivery or interaction.
-* **No Credential Capture:** All form fields are visually present for layout purposes only and have been explicitly disabled using the `disabled` attribute. No data is collected, stored, or transmitted.
+* **Styling:** All form fields are visually present for layout purposes only and have been explicitly disabled using the `disabled` attribute.
 * **No Exploitation:** No credentials are captured.
 * **Controlled Testing:** This artifact is intended only for delivery to controlled test accounts. No real users are .
 
